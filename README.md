@@ -10,3 +10,5 @@ The "pneumonia_detections" project aimed to detect pneumonia in human lungs usin
 - Implemented a novel approach using the Rectified Linear Unit (ReLU) activation function.
 - Achieved a remarkable accuracy improvement, reaching 92%.
 - Demonstrates the effectiveness of innovative techniques in medical image analysis for disease detection.
+
+![Output Image](https://github.com/AI-With-Sajid/pneumonia_detections/blob/main/output.png)
